@@ -5,6 +5,36 @@
     border: solid black;
     margin-bottom: 20px;
 }
+
+.purple-rectangle {
+    background: purple;
+    height: 75%;
+    width: 50px;
+    margin-top: 35px;
+    margin-left: 15px;
+    float: left;
+    
+}
+
+.green-rectangle {
+    background: green;
+    width: 40%;
+    height: 85%;
+    margin-top: 15px;
+    margin-left: 60px;
+    float: left;
+}
+
+.blue-circle {
+    background: lightblue;
+    padding: 20px;
+    margin: 20px;
+    border: 10px;
+    border-radius: 50%;
+    float: left;
+    shape-outside: margin-box;
+}
+
 .main-section {
     width: 100%;
     height: 300px;
